@@ -15,4 +15,5 @@ To use this patch, follow the steps below:
 
 **Step 4:** Edit your profile signature and add the ID in the following format:
 &nbsp;&nbsp;&nbsp;&nbsp;[noteId: "IyXzgTqU5fg"]
+
 **Step 5:** Save your signature and check it out 🎵
