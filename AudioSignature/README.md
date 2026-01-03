@@ -2,6 +2,8 @@
 
 **Audio Signature** is a feature patch that allows you to add music to your profile by embedding an audio signature.
 
+![preview](https://raw.githubusercontent.com/luoshenshi/perfect-patches/refs/heads/main/AudioSignature/src/Screenshot_1767456743.png)
+
 To use this patch, follow the steps below:
 
 **Step 1:** Go to **YouTube**.  
@@ -15,5 +17,5 @@ To use this patch, follow the steps below:
 
 **Step 4:** Edit your profile signature and add the ID in the following format:
 &nbsp;&nbsp;&nbsp;&nbsp;[noteId: "IyXzgTqU5fg"]
-
+![preview](https://raw.githubusercontent.com/luoshenshi/perfect-patches/refs/heads/main/AudioSignature/src/Screenshot_1767457093.png)
 **Step 5:** Save your signature and check it out 🎵
