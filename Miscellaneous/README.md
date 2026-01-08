@@ -4,3 +4,4 @@
 
 ### Currently allows
 - Displaying the **room name as the room owner’s name**
+- Allows you to **copy** _text messages_ in chatroom
